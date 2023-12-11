@@ -17,11 +17,11 @@ O código neste projeto aborda conceitos básicos de programação em .NET, incl
 1. Certifique-se de ter o ambiente de desenvolvimento .NET instalado.
 2. Clone este repositório em sua máquina local.
 
-git clone https://github.com/basiern/faculdade
+'git clone https://github.com/basiern/faculdade'
 
 3. Navegue até o diretório do projeto e execute:
 
-dotnet run
+'dotnet run'
 
 ## Autoria
 
