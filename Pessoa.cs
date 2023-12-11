@@ -40,6 +40,15 @@ namespace ExemploFundamentos
             
         }
 
+        public Pessoa (String nome, String sobrenome, int idade) //Construtor
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+            Idade = idade;
+        }
+
+        public Pessoa (){} //Construtor vazio
+
     }
  
 }

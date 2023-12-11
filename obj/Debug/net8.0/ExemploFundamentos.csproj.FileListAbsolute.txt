@@ -12,3 +12,4 @@ C:\Users\Eduardo Ferreira\OneDrive\Estudo\Codigos\DotNet\ExemploFundamentos\obj\
 C:\Users\Eduardo Ferreira\OneDrive\Estudo\Codigos\DotNet\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
 C:\Users\Eduardo Ferreira\OneDrive\Estudo\Codigos\DotNet\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\Eduardo Ferreira\OneDrive\Estudo\Codigos\DotNet\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
+C:\Users\Eduardo Ferreira\OneDrive\Estudo\Codigos\DotNet\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
