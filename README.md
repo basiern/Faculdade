@@ -2,7 +2,6 @@
 
 Este é um projeto de exemplo que demonstra alguns fundamentos iniciais em programação .NET, através de desafio proposto pela Dio.me
 
-
 ## 📝 Descrição
 
 O código neste projeto aborda conceitos básicos de programação em .NET, incluindo:
